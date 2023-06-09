@@ -6,5 +6,7 @@ repository
             -main
 
 
-
-go mod init module_name
+command
+-- go mod init module_name
+go get -u github.com/bxcodec/faker/v4
+go mod tidy
