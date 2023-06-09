@@ -1,0 +1,10 @@
+
+
+repository
+    module
+        package
+            -main
+
+
+
+go mod init module_name
